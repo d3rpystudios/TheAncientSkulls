@@ -61,6 +61,7 @@ video {
   z-index: 2;
 }
 
+
 .masthead .masthead-bg {
   position: absolute;
   top: 0;
@@ -107,6 +108,13 @@ video {
     min-height: 0;
     width: 40.5rem;
     padding-bottom: 0;
+    float:left;
+    width: 30%;
+  }
+  .masthead-spacer {
+      float: left;
+      height: 100%;
+      width: 70%;
   }
   .masthead .masthead-bg {
     min-height: 0;
